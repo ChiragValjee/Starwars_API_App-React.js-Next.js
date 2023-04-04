@@ -1,0 +1,3 @@
+# Project exclude paths
+/movies-api/.next/
+/movies-api/node_modules/
